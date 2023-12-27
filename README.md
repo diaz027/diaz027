@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my porfolio](www.prueba123.com)
 
-- about **Soy un entusiasta de la tecnología y apasionado por el mundo automotriz. Recientemente, completé mi formación como desarrollador Full Stack en "Henry", donde adquirí conocimientos sólidos en diversas tecnologías clave. Entre mis habilidades destacan:
+- about Soy un entusiasta de la tecnología y apasionado por el mundo automotriz. Recientemente, completé mi formación como desarrollador Full Stack en "Henry", donde adquirí conocimientos sólidos en diversas tecnologías clave. Entre mis habilidades destacan:
 
 Desarrollo Frontend con React, JavaScript, HTML, y CSS.
 Manejo de state con Redux.
@@ -14,7 +14,7 @@ Trabajo con bases de datos PostgreSQL y ORM Sequelize.
 Construcción de aplicaciones con Next.js.
 Seguimiento de metodologías ágiles como SCRUM.
 Colaboración y control de versiones en entornos como Github.
-Estoy emocionado por aplicar mis habilidades y conocimientos en proyectos desafiantes. ¡No dudes en contactarme para explorar posibles colaboraciones o para saber más sobre mi experiencia!**
+Estoy emocionado por aplicar mis habilidades y conocimientos en proyectos desafiantes. ¡No dudes en contactarme para explorar posibles colaboraciones o para saber más sobre mi experiencia!
 
 - 📫 How to reach me **dami27cito@gmail.com**
 
