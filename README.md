@@ -7,6 +7,7 @@
 
 - about Soy un entusiasta de la tecnología y apasionado por el mundo automotriz. Recientemente, completé mi formación como desarrollador Full Stack en "Henry", donde adquirí conocimientos sólidos en diversas tecnologías clave. Entre mis habilidades destacan:
 
+<br>
 Desarrollo Frontend con React, JavaScript, HTML, y CSS.
 Manejo de state con Redux.
 Experiencia en el desarrollo de servidores con Node.js.
