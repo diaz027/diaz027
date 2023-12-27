@@ -8,14 +8,15 @@
 - about Soy un entusiasta de la tecnología y apasionado por el mundo automotriz. Recientemente, completé mi formación como desarrollador Full Stack en "Henry", donde adquirí conocimientos sólidos en diversas tecnologías clave. Entre mis habilidades destacan:
 
 
-Desarrollo Frontend con React, JavaScript, HTML, y CSS.
-Manejo de state con Redux.
-Experiencia en el desarrollo de servidores con Node.js.
-Trabajo con bases de datos PostgreSQL y ORM Sequelize.
-Construcción de aplicaciones con Next.js.
-Seguimiento de metodologías ágiles como SCRUM.
-Colaboración y control de versiones en entornos como Github.
-Estoy emocionado por aplicar mis habilidades y conocimientos en proyectos desafiantes. ¡No dudes en contactarme para explorar posibles colaboraciones o para saber más sobre mi experiencia!
+<h2>Desarrollo Frontend con React, JavaScript, HTML, y CSS.</h2>
+<ul>Manejo de state con Redux.
+<li>Experiencia en el desarrollo de servidores con Node.js.</li>
+<li>Trabajo con bases de datos PostgreSQL y ORM Sequelize.</li>
+<li>Construcción de aplicaciones con Next.js.</li>
+<li>Seguimiento de metodologías ágiles como SCRUM.</li>
+<li>Colaboración y control de versiones en entornos como Github.</li>
+<li>Estoy emocionado por aplicar mis habilidades y conocimientos en proyectos desafiantes. ¡No dudes en contactarme para explorar posibles colaboraciones o para saber más sobre mi experiencia!</li>
+</ul>
 
 - 📫 How to reach me **dami27cito@gmail.com**
 
