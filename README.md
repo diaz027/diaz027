@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my porfolio](www.prueba123.com)
 
-- my about **i nombre es Damian, un apasionado de la tecnología y el mundo automotriz. Actualmente, termine la carrea de full stack en "Henry" y he adquirido conocimientos sólidos en tecnologías esenciales como React, JavaScript, Redux, Node.js, PostgreSQL, Sequelize, Next.js, SCRUM, Github, HTML, CSS**
+- about **i nombre es Damian, un apasionado de la tecnología y el mundo automotriz. Actualmente, termine la carrea de full stack en "Henry" y he adquirido conocimientos sólidos en tecnologías esenciales como React, JavaScript, Redux, Node.js, PostgreSQL, Sequelize, Next.js, SCRUM, Github, HTML, CSS**
 
 - 📫 How to reach me **dami27cito@gmail.com**
 
