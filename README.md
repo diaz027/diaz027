@@ -18,7 +18,7 @@
     <li>Estoy emocionado por aplicar mis habilidades y conocimientos en proyectos desafiantes. ¡No dudes en contactarme para explorar posibles colaboraciones o para saber más sobre mi experiencia!</li>
 </ul>
 
-<p align="center"> 📫 Puedes contactarme a través de **dami27cito@gmail.com**</p>
+<p align="center"> 📫 Puedes contactarme a través de dami27cito@gmail.com</p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
