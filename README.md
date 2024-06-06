@@ -3,22 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaz027&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="diaz027" /> </p>
 
-<p align="center"> 🔭 Actualmente estoy trabajando en <a href="https://www.prueba123.com" target="_blank">mi portafolio</a></p>
+<p align="center"> 🔭 Actualmente estoy trabajando en un proyecto personal</p>
 
 <p> Soy un entusiasta de la tecnología y apasionado por el mundo automotriz. Recientemente, completé mi formación como desarrollador Full Stack en "Henry", donde adquirí conocimientos sólidos en diversas tecnologías clave. Entre mis habilidades destacan:</p>
 
 <h2>Desarrollo Frontend con React, JavaScript, HTML, y CSS.</h2>
 <ul>
-    <li>Manejo de estado con Redux.</li>
+    <li>Manejo de estado con Redux, Zustand.</li>
     <li>Experiencia en el desarrollo de servidores con Node.js.</li>
-    <li>Trabajo con bases de datos PostgreSQL y ORM Sequelize.</li>
-    <li>Construcción de aplicaciones con Next.js.</li>
+    <li>Trabajo con bases de datos PostgreSQL, ORM Sequelize, ORM Prisma.</li>
+    <li>Construcción de aplicaciones con Vite.js y Next.js.</li>
     <li>Seguimiento de metodologías ágiles como SCRUM.</li>
     <li>Colaboración y control de versiones en entornos como Github.</li>
     <li>Estoy emocionado por aplicar mis habilidades y conocimientos en proyectos desafiantes. ¡No dudes en contactarme para explorar posibles colaboraciones o para saber más sobre mi experiencia!</li>
 </ul>
 
-<p align="center"> 📫 Puedes contactarme a través de dami27cito@gmail.com</p>
+<p align="center"> 📫 Puedes contactarme a través de damian.diaz.develop@gmail.com</p>
+<p align="center"> Mi Portafolio: <a href="https://porfolio-damian-diaz.vercel.app/"></a></p>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
